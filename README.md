@@ -178,7 +178,7 @@ Analyzes the workload and returns recommendations.
 
 ## Author
 
-**Satyajit**  
+**Akanksha**  
 Graduate Student in Information Systems at UMBC  
 Focused on Cloud Engineering, DevOps, and SRE
 
